@@ -1,0 +1,1 @@
+"""Private Telegram media bot."""
